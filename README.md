@@ -2,7 +2,7 @@
 **Problem Statement:**
 	Target seeks to improve its operations and customer experience in Brazil by analysing historical order data FROM 2016 to 2018. The objective is to uncover insights related to order fulfilment, pricing, payments, shipping, customer behaviour, product performance, and reviews. These insights will help Target enhance operational efficiency, optimize pricing and delivery strategies, and improve customer satisfaction to strengthen its position in the Brazilian retail market.
 
-**Data Analysis Insights: (To view the SQL Query kindly click the "SQL Business Case file.docx")**
+**Data Analysis Insights: (To view the SQL Query kindly view the "SQL Business Case file.docx" file)**
 * First order was at 4th September 2016 and the Last Order was at 17th October 2018
 * Order details of Customers from total of 4119 city from 27 states
 * Highest order count was at November 2017 followed by January to May of 2018
